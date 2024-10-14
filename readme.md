@@ -1,7 +1,9 @@
-# Blum Minigame Autoclicker
+# [Blum](https://t.me/blum/app?startapp=ref_TEu7rdfQ0N) Minigame Autoclicker
+
+### Play Blum Now - [https://t.me/blum](https://t.me/blum/app?startapp=ref_TEu7rdfQ0N)
 
 ## Overview
-This is a free autoclicker script designed for the **Blum** minigame in Telegram. It automates the process of collecting green balls while avoiding bombs and freeze traps.
+This is a free autoclicker script designed for the [**Blum**](https://t.me/blum/app?startapp=ref_TEu7rdfQ0N) minigame in Telegram. It automates the process of collecting green balls while avoiding bombs and freeze traps.
 
 The script provides options to choose the desired number of balls to collect and can automatically restart the game after completing a round.
 
@@ -15,7 +17,7 @@ The script provides options to choose the desired number of balls to collect and
 - **Customizable Ball Collection Count:** Choose how many green balls to collect before stopping.
 - **Automatic Game Restart:** Option to enable automatic restarting of the game after each round.
 - **Toggle On/Off:** After starting the script, press the "`" key (grave accent) to turn the autoclicker on or off.
-- **Works in Telegram Desktop:** The script is specifically designed to interact with the **Blum** minigame window in the Telegram Desktop application.
+- **Works in Telegram Desktop:** The script is specifically designed to interact with the [**Blum**](https://t.me/blum/app?startapp=ref_TEu7rdfQ0N) minigame window in the Telegram Desktop application.
 
 ## How to Use
 ### Prerequisites
@@ -29,7 +31,7 @@ The script provides options to choose the desired number of balls to collect and
 ### Running the Script
 1. **Clone this repository:**
    ```bash
-   
+   https://github.com/VikumKarunathilake/blum-autocliker.git
    ```
    
 2. **Navigate to the cloned directory:**
@@ -52,13 +54,13 @@ The script provides options to choose the desired number of balls to collect and
    
 5. **Starting the Autoclicker:**
    - After starting the minigame, press the **` key** (grave accent) to toggle the script on or off.
-   - Ensure that the **Blum** game window is active in **Telegram Desktop**.
+   - Ensure that the [**Blum**](https://t.me/blum/app?startapp=ref_TEu7rdfQ0N) game window is active in **Telegram Desktop**.
 
 ### Example Workflow
 - Run the script.
 - When prompted, choose your desired number of points.
 - Select whether the bot should continue games automatically.
-- Focus on the **Blum** minigame window in Telegram Desktop.
+- Focus on the [**Blum**](https://t.me/blum/app?startapp=ref_TEu7rdfQ0N) minigame window in Telegram Desktop.
 - Press the **` key** to start or stop the autoclicker.
 
 ## Script Details
